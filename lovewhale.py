@@ -28,7 +28,7 @@ def txt():
     pen2.setpos(-74, 95)
     pen2.down()
     pen2.color('yellow')
-    pen2.write("For you, Mary TNĐ", font=("Comic Sans MS", 12, "bold"))
+    pen2.write("For you, Mary TNĐ", font=("Impact", 15, "bold"))
 
 
 def whale():
